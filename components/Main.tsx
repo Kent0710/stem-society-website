@@ -47,7 +47,7 @@ const Main = () => {
                         STEM Society
                     </h1>
                     <p
-                        className="pt-5 text-center"
+                        className="py-5 text-center"
                     >
                         Innovate, Educate, Elevate - Cultivating Excellence in STEM Together.
                     </p>
@@ -91,7 +91,7 @@ const Main = () => {
 
 {/* section 2 */}
             <div
-                className="flex justify-between px-10 gap-20 items-center bg-[#111111] w-full text-[#dad6ca] py-28"
+                className="flex justify-between px-10 gap-20 items-center bg-[#111111] w-full text-[#dad6ca] py-28 flex-wrap"
             >
                 <Image
                     src={headpageImage}
@@ -154,7 +154,7 @@ const Main = () => {
                     Shared insights from our community
                 </h1>
                 <div
-                    className="flex justify-center  gap-20 items-center"
+                    className="flex justify-center  gap-20 items-center flex-wrap"
                 >
                     <Image
                         src={kent}
@@ -175,7 +175,7 @@ const Main = () => {
                     </div>
                 </div>
                 <div
-                    className="flex justify-center  gap-20 items-center"
+                    className="flex justify-center  gap-20 items-center flex-wrap"
                 >
                     <Image
                         src={kent2}
@@ -217,7 +217,7 @@ const Main = () => {
             </div>
 
             <div
-                className="flex justify-around w-full px-[10rem]"
+                className="flex justify-around w-full px-[10rem] flex-wrap"
             >
                 <div
                     className="flex flex-col items-center gap-5"

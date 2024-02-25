@@ -5,11 +5,11 @@ import { MdOutlineAdminPanelSettings } from "react-icons/md";
 const Header = () => {
     return (
         <header
-            className="w-full py-5 px-20 font-semibold flex justify-between fixed bg-[#dad6ca] z-10 backdrop-blur-xl bg-opacity-50 items-center"
+            className="w-full py-5 px-5 lg:px-20 font-semibold flex justify-between fixed bg-[#dad6ca] z-10 backdrop-blur-xl bg-opacity-50 items-center"
         >
             
             <div
-                className="flex gap-28"
+                className="flex gap-5 lg:gap-28"
             >
                 <a href="#">
                 <h1

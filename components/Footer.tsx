@@ -5,10 +5,10 @@ import ayano from "@/public/images/ayano.jpg"
 const Footer = () => {
     return (
         <footer
-            className="flex flex-col gap-10 bg-[#111111] text-[#dad6ca] py-12 px-[10rem]"
+            className="flex flex-col gap-10 bg-[#111111] text-[#dad6ca] py-12 lg:px-[10rem] sm:px-5"
         >
             <div
-                className="flex justify-between"
+                className="flex justify-between flex-wrap"
             >
                 <h1
                     className="text-5xl font-semibold"
@@ -43,7 +43,7 @@ const Footer = () => {
                 </button>
             </form>
             <div
-                className="px-[20rem] text-center text-sm gap-8 flex flex-col items-center"
+                className="lg:px-[20rem] text-center text-sm gap-8 flex flex-col items-center px-5"
             >
                 <div
                     className="flex flex-col gap-2 items-center"
