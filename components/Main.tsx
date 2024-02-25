@@ -170,7 +170,7 @@ const Main = () => {
                             Bochibori Norikamano
                         </h2>
                         <p>
-                            STEM Week was a tremendous success, leaving me hopeful for continued momentum. The enthusiastic participation highlighted the importance of fostering curiosity in STEM. I look forward to ongoing collaboration, building on the connections and knowledge gained. Whether a student, educator, or professional, let's use this positive energy to fuel future projects. My aspiration is to see the impact extend beyond the week, fostering innovation and contributing to a future where science and technology drive positive change. Cheers to the success of STEM Week and the exciting journey ahead!
+                            STEM Week was a tremendous success, leaving me hopeful for continued momentum. The enthusiastic participation highlighted the importance of fostering curiosity in STEM. I look forward to ongoing collaboration, building on the connections and knowledge gained. Whether a student, educator, or professional, lets use this positive energy to fuel future projects. My aspiration is to see the impact extend beyond the week, fostering innovation and contributing to a future where science and technology drive positive change. Cheers to the success of STEM Week and the exciting journey ahead!
                         </p>
                     </div>
                 </div>
@@ -191,7 +191,7 @@ const Main = () => {
                             Hikarimari Tobikoto
                         </h2>
                         <p>
-                            STEM Week proved immensely successful, instilling hope for sustained momentum. The fervent engagement underscored the significance of nurturing curiosity in STEM. I anticipate continued collaboration, leveraging the established connections and acquired knowledge. Whether one is a student, educator, or professional, let's harness this positivity to propel forthcoming projects. My aim is to witness the influence extend beyond the week, cultivating innovation and playing a role in a future where science and technology propel positive transformations. Here's to the triumph of STEM Week and the thrilling path ahead!
+                            STEM Week proved immensely successful, instilling hope for sustained momentum. The fervent engagement underscored the significance of nurturing curiosity in STEM. I anticipate continued collaboration, leveraging the established connections and acquired knowledge. Whether one is a student, educator, or professional, lets harness this positivity to propel forthcoming projects. My aim is to witness the influence extend beyond the week, cultivating innovation and playing a role in a future where science and technology propel positive transformations. Heres to the triumph of STEM Week and the thrilling path ahead!
                         </p>
                     </div>
                 </div>
