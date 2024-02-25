@@ -1,0 +1,1 @@
+              className={`slide-in-long-div ${isVisible ? 'slide-in-active' : ''}`}
